@@ -1,6 +1,6 @@
 # Longformer - Modal
 
-First, set up a virtual environment and install all of the required dependencies, either using `poetry` and `pyproject.toml` or `pip` and `requirements.txt`.
+First, set up a virtual environment and install all of the required dependencies, either using `poetry` and `pyproject.toml` or `pip` and `requirements.txt`. Importantly, be sure to add our `EC_0611_A_ckp` model to the `longformer_modal` folder.
 
 ## Serve the endpoint in dev mode
 
